@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "1) Initial commands:\r -- node -v\r -- npm -v\r -- \r -- npm init -y (install package.json)\r -- npm i express mongoose\r !! bas e5la2 database monodb online bel country eza 7atet usa, bi koun afdal kamen bas erfa3 l frontend 3a vercel, render,... eno 7ot\r nafes l country la tenfiz l queries wel mutation ykoun asra3\r bel mongo db l data btet5azan bel documents aw collections 3akes l mysql bi koun fiya tables w relationships",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.3.2",
+    "nodemon": "^3.1.0"
+  }
+}
